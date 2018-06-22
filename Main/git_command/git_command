@@ -9,6 +9,6 @@ git push origin - Push to your remote repasitory
 git commit - Commit changes 
 git branch - List of branch 
 git merge - Merge the branch in active branch
-git status -u - show untracked files
+git status -s - show untracked files
 git status - show the current local working directory status
-
+git rm -r - Remove the file

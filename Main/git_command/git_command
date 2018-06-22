@@ -1,7 +1,14 @@
          Git commands:
 git clone - it copies repositories
-git status - Check status
 git add - adding file or folder to the staging area
 git push - push the changes to repasitories
 git pull - Update the local repasitories to the newest commit
 git log - view changes
+git log --summary - View changes with details
+git push origin - Push to your remote repasitory
+git commit - Commit changes 
+git branch - List of branch 
+git merge - Merge the branch in active branch
+git status -u - show untracked files
+git status - show the current local working directory status
+

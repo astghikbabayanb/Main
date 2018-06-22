@@ -1,1 +1,7 @@
-Hi Harut
+         Git commands:
+git clone - it copies repositories
+git status - Check status
+git add - adding file or folder to the staging area
+git push - push the changes to repasitories
+git pull - Update the local repasitories to the newest commit
+git log - view changes

@@ -12,3 +12,7 @@ git merge - Merge the branch in active branch
 git status -s - show untracked files
 git status - show the current local working directory status
 git rm -r - Remove the file
+git config --global user.name - Add user's user.name
+git config --global user.email - Add user's email
+git show - git main command
+git help - git commands

@@ -17,6 +17,3 @@ git config --global user.email - Add user's email
 git show - git main command
 git help - git commands
 git config - info about configuration
-git checkout branch name - Switch branch
-git branch name - Create new branch
-git diff - Show changes between commits

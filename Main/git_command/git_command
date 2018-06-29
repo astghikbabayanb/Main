@@ -20,3 +20,8 @@ git config - info about configuration
 git checkout branch name - Switch branch
 git branch name - Create new branch
 git diff - Show changes between commits
+git tag -a name - Create annotated tag
+git tag - Tag list
+git branch -d - delete branch
+git push -u origin tagname -Push tag
+
